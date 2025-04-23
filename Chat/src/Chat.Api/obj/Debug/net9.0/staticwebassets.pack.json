@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Florian\\Documents\\Schule_4A\\SEW\\Chat\\src\\Chat.Api\\wwwroot\\uploads\\1c13bc28-49dc-4a6d-b9f1-8eb7c1824b61_Abreitsauftag (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\1c13bc28-49dc-4a6d-b9f1-8eb7c1824b61_Abreitsauftag (1).pdf"
+    },
+    {
+      "Id": "C:\\Users\\Florian\\Documents\\Schule_4A\\SEW\\Chat\\src\\Chat.Api\\wwwroot\\uploads\\37a4d3b3-203e-4e2a-959e-cf37ab39c390_informationen hardware.docx",
+      "PackagePath": "staticwebassets\\uploads\\37a4d3b3-203e-4e2a-959e-cf37ab39c390_informationen hardware.docx"
+    },
+    {
+      "Id": "C:\\Users\\Florian\\Documents\\Schule_4A\\SEW\\Chat\\src\\Chat.Api\\wwwroot\\uploads\\74f30d38-bf6b-4205-a31c-fd753408e944_Abreitsauftag.pdf",
+      "PackagePath": "staticwebassets\\uploads\\74f30d38-bf6b-4205-a31c-fd753408e944_Abreitsauftag.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Florian\\Documents\\Schule_4A\\SEW\\Chat\\src\\Chat.Api\\wwwroot\\uploads\\ed37bcae-b242-4b3a-b7da-144b98a2d7e0_SYTD Test 3.docx",
+      "PackagePath": "staticwebassets\\uploads\\ed37bcae-b242-4b3a-b7da-144b98a2d7e0_SYTD Test 3.docx"
+    },
+    {
+      "Id": "C:\\Users\\Florian\\Documents\\Schule_4A\\SEW\\Chat\\src\\Chat.Api\\wwwroot\\uploads\\fc6d0c18-9107-4cb1-97fb-f6c9620eb966_Design_Pattern_Test.docx",
+      "PackagePath": "staticwebassets\\uploads\\fc6d0c18-9107-4cb1-97fb-f6c9620eb966_Design_Pattern_Test.docx"
+    },
+    {
+      "Id": "C:\\Users\\Florian\\Documents\\Schule_4A\\SEW\\Chat\\src\\Chat.Api\\wwwroot\\uploads\\fdbb5114-6724-4290-be9e-93399f7b1c35_Abreitsauftag (1).pdf",
+      "PackagePath": "staticwebassets\\uploads\\fdbb5114-6724-4290-be9e-93399f7b1c35_Abreitsauftag (1).pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Chat.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Chat.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Chat.Api.props",
+      "PackagePath": "build\\Chat.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Chat.Api.props",
+      "PackagePath": "buildMultiTargeting\\Chat.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Chat.Api.props",
+      "PackagePath": "buildTransitive\\Chat.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

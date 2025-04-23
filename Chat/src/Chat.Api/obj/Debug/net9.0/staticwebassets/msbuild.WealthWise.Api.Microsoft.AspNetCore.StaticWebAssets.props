@@ -1,0 +1,310 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\28be184f-205c-427c-8a22-bcc108897ab5_3. Test - GRPC - Docker.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WealthWise.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WealthWise.Api</BasePath>
+      <RelativePath>uploads/28be184f-205c-427c-8a22-bcc108897ab5_3. Test - GRPC - Docker.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>bvj91lbkux</Fingerprint>
+      <Integrity>15GEpx5WCXV8Pdtg03NaxrbgcW9pvsDa3yczAjL3Hkk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\28be184f-205c-427c-8a22-bcc108897ab5_3. Test - GRPC - Docker.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\2fd183e4-c6f2-4224-8676-254506fee5a8_Problemstellungen Rechtsformen.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WealthWise.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WealthWise.Api</BasePath>
+      <RelativePath>uploads/2fd183e4-c6f2-4224-8676-254506fee5a8_Problemstellungen Rechtsformen.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>nk9uile7gg</Fingerprint>
+      <Integrity>CQ537831Bqq32LYH6oTt6Zm3lQguyWIp4znPK5cmrsU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\2fd183e4-c6f2-4224-8676-254506fee5a8_Problemstellungen Rechtsformen.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\419ee571-30c3-4f79-92d7-af12cd01e3e3_Problemstellungen Rechtsformen.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WealthWise.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WealthWise.Api</BasePath>
+      <RelativePath>uploads/419ee571-30c3-4f79-92d7-af12cd01e3e3_Problemstellungen Rechtsformen.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>nk9uile7gg</Fingerprint>
+      <Integrity>CQ537831Bqq32LYH6oTt6Zm3lQguyWIp4znPK5cmrsU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\419ee571-30c3-4f79-92d7-af12cd01e3e3_Problemstellungen Rechtsformen.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\52dac129-195f-4abc-acdf-bed5c7e8877e_Abreitsauftag.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WealthWise.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WealthWise.Api</BasePath>
+      <RelativePath>uploads/52dac129-195f-4abc-acdf-bed5c7e8877e_Abreitsauftag.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>u29wiqhj34</Fingerprint>
+      <Integrity>9r9KBy4XtygMqb9WotZGVAgcj+/Gx4f8roPg8XLwwcM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\52dac129-195f-4abc-acdf-bed5c7e8877e_Abreitsauftag.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\5cddcb14-85d0-4163-b059-da78d7494a13_Problemstellungen Rechtsformen.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WealthWise.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WealthWise.Api</BasePath>
+      <RelativePath>uploads/5cddcb14-85d0-4163-b059-da78d7494a13_Problemstellungen Rechtsformen.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>nk9uile7gg</Fingerprint>
+      <Integrity>CQ537831Bqq32LYH6oTt6Zm3lQguyWIp4znPK5cmrsU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\5cddcb14-85d0-4163-b059-da78d7494a13_Problemstellungen Rechtsformen.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\6b1b2f59-e580-4f88-b27c-63d6cafa4d67_a77a1876-d412-4801-b32b-2c8b5d415c1e_SYTD Test 3.docx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WealthWise.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WealthWise.Api</BasePath>
+      <RelativePath>uploads/6b1b2f59-e580-4f88-b27c-63d6cafa4d67_a77a1876-d412-4801-b32b-2c8b5d415c1e_SYTD Test 3.docx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>iwctwniowx</Fingerprint>
+      <Integrity>kuI2h77ELtNKh059ZRtgVs09HmRz8d0gXX0U47N3yzc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\6b1b2f59-e580-4f88-b27c-63d6cafa4d67_a77a1876-d412-4801-b32b-2c8b5d415c1e_SYTD Test 3.docx'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\6c983023-7ceb-4c6e-a6ca-c3d4b7b59579_Abreitsauftag (1).pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WealthWise.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WealthWise.Api</BasePath>
+      <RelativePath>uploads/6c983023-7ceb-4c6e-a6ca-c3d4b7b59579_Abreitsauftag (1).pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>u29wiqhj34</Fingerprint>
+      <Integrity>9r9KBy4XtygMqb9WotZGVAgcj+/Gx4f8roPg8XLwwcM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\6c983023-7ceb-4c6e-a6ca-c3d4b7b59579_Abreitsauftag (1).pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\7b04bb67-5562-48e2-9abf-be097b5a4059_aca5b9c4-21c2-44e0-b9af-da2b94997363_SYTD Test 3.docx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WealthWise.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WealthWise.Api</BasePath>
+      <RelativePath>uploads/7b04bb67-5562-48e2-9abf-be097b5a4059_aca5b9c4-21c2-44e0-b9af-da2b94997363_SYTD Test 3.docx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>iwctwniowx</Fingerprint>
+      <Integrity>kuI2h77ELtNKh059ZRtgVs09HmRz8d0gXX0U47N3yzc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\7b04bb67-5562-48e2-9abf-be097b5a4059_aca5b9c4-21c2-44e0-b9af-da2b94997363_SYTD Test 3.docx'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\90c6ded0-e5e0-49f0-bb56-dfa578564fa5_3. Test - GRPC - Docker.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WealthWise.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WealthWise.Api</BasePath>
+      <RelativePath>uploads/90c6ded0-e5e0-49f0-bb56-dfa578564fa5_3. Test - GRPC - Docker.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>bvj91lbkux</Fingerprint>
+      <Integrity>15GEpx5WCXV8Pdtg03NaxrbgcW9pvsDa3yczAjL3Hkk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\90c6ded0-e5e0-49f0-bb56-dfa578564fa5_3. Test - GRPC - Docker.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\a14dde06-6523-4ebc-a525-c70ab8139d69_Problemstellungen Rechtsformen.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WealthWise.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WealthWise.Api</BasePath>
+      <RelativePath>uploads/a14dde06-6523-4ebc-a525-c70ab8139d69_Problemstellungen Rechtsformen.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>nk9uile7gg</Fingerprint>
+      <Integrity>CQ537831Bqq32LYH6oTt6Zm3lQguyWIp4znPK5cmrsU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\a14dde06-6523-4ebc-a525-c70ab8139d69_Problemstellungen Rechtsformen.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\a77a1876-d412-4801-b32b-2c8b5d415c1e_SYTD Test 3.docx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WealthWise.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WealthWise.Api</BasePath>
+      <RelativePath>uploads/a77a1876-d412-4801-b32b-2c8b5d415c1e_SYTD Test 3.docx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>iwctwniowx</Fingerprint>
+      <Integrity>kuI2h77ELtNKh059ZRtgVs09HmRz8d0gXX0U47N3yzc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\a77a1876-d412-4801-b32b-2c8b5d415c1e_SYTD Test 3.docx'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\a7b7138e-0b78-4d76-bcc7-283d1e2e9d4d_3. Test - GRPC - Docker.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WealthWise.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WealthWise.Api</BasePath>
+      <RelativePath>uploads/a7b7138e-0b78-4d76-bcc7-283d1e2e9d4d_3. Test - GRPC - Docker.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>bvj91lbkux</Fingerprint>
+      <Integrity>15GEpx5WCXV8Pdtg03NaxrbgcW9pvsDa3yczAjL3Hkk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\a7b7138e-0b78-4d76-bcc7-283d1e2e9d4d_3. Test - GRPC - Docker.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\aca5b9c4-21c2-44e0-b9af-da2b94997363_SYTD Test 3.docx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WealthWise.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WealthWise.Api</BasePath>
+      <RelativePath>uploads/aca5b9c4-21c2-44e0-b9af-da2b94997363_SYTD Test 3.docx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>iwctwniowx</Fingerprint>
+      <Integrity>kuI2h77ELtNKh059ZRtgVs09HmRz8d0gXX0U47N3yzc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\aca5b9c4-21c2-44e0-b9af-da2b94997363_SYTD Test 3.docx'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\d35668be-c6b8-4ba3-9907-8dd71ce5e5d4_Docker Übung.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WealthWise.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WealthWise.Api</BasePath>
+      <RelativePath>uploads/d35668be-c6b8-4ba3-9907-8dd71ce5e5d4_Docker Übung.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>g8ldjfwiqu</Fingerprint>
+      <Integrity>wLsUCTpRiC9Ijl/Hvr5g6vQISWESanoxhN+lcovRoJU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\d35668be-c6b8-4ba3-9907-8dd71ce5e5d4_Docker Übung.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\e2425bda-3ebe-408a-919d-27595bb68979_Abreitsauftag.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WealthWise.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WealthWise.Api</BasePath>
+      <RelativePath>uploads/e2425bda-3ebe-408a-919d-27595bb68979_Abreitsauftag.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>u29wiqhj34</Fingerprint>
+      <Integrity>9r9KBy4XtygMqb9WotZGVAgcj+/Gx4f8roPg8XLwwcM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\e2425bda-3ebe-408a-919d-27595bb68979_Abreitsauftag.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\ec86163e-f895-4937-bc22-81ad29a25df0_3. Test - GRPC - Docker (1).pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WealthWise.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WealthWise.Api</BasePath>
+      <RelativePath>uploads/ec86163e-f895-4937-bc22-81ad29a25df0_3. Test - GRPC - Docker (1).pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>4mkdtpiqjg</Fingerprint>
+      <Integrity>nIqfLydF7Ag6zfjNpAokubMPeVYV63Z89LyUWzd7+Jw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\ec86163e-f895-4937-bc22-81ad29a25df0_3. Test - GRPC - Docker (1).pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\f201ee6f-6622-40aa-bf1e-8795a29db712_Docker Übung.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WealthWise.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WealthWise.Api</BasePath>
+      <RelativePath>uploads/f201ee6f-6622-40aa-bf1e-8795a29db712_Docker Übung.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>g8ldjfwiqu</Fingerprint>
+      <Integrity>wLsUCTpRiC9Ijl/Hvr5g6vQISWESanoxhN+lcovRoJU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\f201ee6f-6622-40aa-bf1e-8795a29db712_Docker Übung.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

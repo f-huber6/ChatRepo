@@ -1,0 +1,112 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\1c13bc28-49dc-4a6d-b9f1-8eb7c1824b61_Abreitsauftag (1).pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Chat.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Chat.Api</BasePath>
+      <RelativePath>uploads/1c13bc28-49dc-4a6d-b9f1-8eb7c1824b61_Abreitsauftag (1).pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>u29wiqhj34</Fingerprint>
+      <Integrity>9r9KBy4XtygMqb9WotZGVAgcj+/Gx4f8roPg8XLwwcM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\1c13bc28-49dc-4a6d-b9f1-8eb7c1824b61_Abreitsauftag (1).pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\37a4d3b3-203e-4e2a-959e-cf37ab39c390_informationen hardware.docx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Chat.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Chat.Api</BasePath>
+      <RelativePath>uploads/37a4d3b3-203e-4e2a-959e-cf37ab39c390_informationen hardware.docx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ufnv9ge722</Fingerprint>
+      <Integrity>lu73osLV+7zL1x4qC/P+e7AvZV3F76me4H7WthdkDEE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\37a4d3b3-203e-4e2a-959e-cf37ab39c390_informationen hardware.docx'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\74f30d38-bf6b-4205-a31c-fd753408e944_Abreitsauftag.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Chat.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Chat.Api</BasePath>
+      <RelativePath>uploads/74f30d38-bf6b-4205-a31c-fd753408e944_Abreitsauftag.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>u29wiqhj34</Fingerprint>
+      <Integrity>9r9KBy4XtygMqb9WotZGVAgcj+/Gx4f8roPg8XLwwcM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\74f30d38-bf6b-4205-a31c-fd753408e944_Abreitsauftag.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\ed37bcae-b242-4b3a-b7da-144b98a2d7e0_SYTD Test 3.docx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Chat.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Chat.Api</BasePath>
+      <RelativePath>uploads/ed37bcae-b242-4b3a-b7da-144b98a2d7e0_SYTD Test 3.docx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>iwctwniowx</Fingerprint>
+      <Integrity>kuI2h77ELtNKh059ZRtgVs09HmRz8d0gXX0U47N3yzc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\ed37bcae-b242-4b3a-b7da-144b98a2d7e0_SYTD Test 3.docx'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\fc6d0c18-9107-4cb1-97fb-f6c9620eb966_Design_Pattern_Test.docx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Chat.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Chat.Api</BasePath>
+      <RelativePath>uploads/fc6d0c18-9107-4cb1-97fb-f6c9620eb966_Design_Pattern_Test.docx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>7v9eaucwjd</Fingerprint>
+      <Integrity>c2ttYUGr14hgKZnXo7d9XSk/aScUaWK8zUrRJYPg5A4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\fc6d0c18-9107-4cb1-97fb-f6c9620eb966_Design_Pattern_Test.docx'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\fdbb5114-6724-4290-be9e-93399f7b1c35_Abreitsauftag (1).pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Chat.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Chat.Api</BasePath>
+      <RelativePath>uploads/fdbb5114-6724-4290-be9e-93399f7b1c35_Abreitsauftag (1).pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>u29wiqhj34</Fingerprint>
+      <Integrity>9r9KBy4XtygMqb9WotZGVAgcj+/Gx4f8roPg8XLwwcM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\fdbb5114-6724-4290-be9e-93399f7b1c35_Abreitsauftag (1).pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

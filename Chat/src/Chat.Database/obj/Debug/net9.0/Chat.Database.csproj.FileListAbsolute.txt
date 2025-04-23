@@ -1,0 +1,15 @@
+C:\Users\Florian\Documents\Schule_4A\SEW\Chat\src\Chat.Database\bin\Debug\net9.0\Chat.Database.deps.json
+C:\Users\Florian\Documents\Schule_4A\SEW\Chat\src\Chat.Database\bin\Debug\net9.0\Chat.Database.runtimeconfig.json
+C:\Users\Florian\Documents\Schule_4A\SEW\Chat\src\Chat.Database\bin\Debug\net9.0\Chat.Database.dll
+C:\Users\Florian\Documents\Schule_4A\SEW\Chat\src\Chat.Database\bin\Debug\net9.0\Chat.Database.pdb
+C:\Users\Florian\Documents\Schule_4A\SEW\Chat\src\Chat.Database\obj\Debug\net9.0\Chat.Database.csproj.AssemblyReference.cache
+C:\Users\Florian\Documents\Schule_4A\SEW\Chat\src\Chat.Database\obj\Debug\net9.0\Chat.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Florian\Documents\Schule_4A\SEW\Chat\src\Chat.Database\obj\Debug\net9.0\Chat.Database.AssemblyInfoInputs.cache
+C:\Users\Florian\Documents\Schule_4A\SEW\Chat\src\Chat.Database\obj\Debug\net9.0\Chat.Database.AssemblyInfo.cs
+C:\Users\Florian\Documents\Schule_4A\SEW\Chat\src\Chat.Database\obj\Debug\net9.0\Chat.Database.csproj.CoreCompileInputs.cache
+C:\Users\Florian\Documents\Schule_4A\SEW\Chat\src\Chat.Database\obj\Debug\net9.0\Chat.Database.sourcelink.json
+C:\Users\Florian\Documents\Schule_4A\SEW\Chat\src\Chat.Database\obj\Debug\net9.0\Chat.Database.dll
+C:\Users\Florian\Documents\Schule_4A\SEW\Chat\src\Chat.Database\obj\Debug\net9.0\refint\Chat.Database.dll
+C:\Users\Florian\Documents\Schule_4A\SEW\Chat\src\Chat.Database\obj\Debug\net9.0\Chat.Database.pdb
+C:\Users\Florian\Documents\Schule_4A\SEW\Chat\src\Chat.Database\obj\Debug\net9.0\Chat.Database.genruntimeconfig.cache
+C:\Users\Florian\Documents\Schule_4A\SEW\Chat\src\Chat.Database\obj\Debug\net9.0\ref\Chat.Database.dll

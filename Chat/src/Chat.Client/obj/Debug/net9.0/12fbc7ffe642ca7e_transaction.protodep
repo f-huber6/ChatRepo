@@ -1,0 +1,4 @@
+obj\Debug\net9.0\Protos/Transaction.cs \
+obj\Debug\net9.0\Protos/TransactionGrpc.cs: C:/Users/Florian/.nuget/packages/grpc.tools/2.71.0/build/native/include/google/protobuf/timestamp.proto\
+ C:/Users/Florian/.nuget/packages/grpc.tools/2.71.0/build/native/include/google/protobuf/wrappers.proto\
+ Protos/transaction.proto
